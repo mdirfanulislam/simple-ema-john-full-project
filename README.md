@@ -1,3 +1,9 @@
+# Live Site Link
+https://ema-john-simple-full-project.web.app/
+
+# Project Name
+Ema John Shop
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
