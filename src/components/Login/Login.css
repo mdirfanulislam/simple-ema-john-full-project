@@ -1,0 +1,30 @@
+.authentication{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    margin-inline: 400px;
+    margin-top: 50px;
+    border: 1px solid tomato;
+    border-radius: 5px;
+    padding-block: 10px;
+}
+.btn-authentication{
+    background-color: gold;
+    border: 1px solid lightgray;
+    padding-inline: 15px;
+    padding-block: 6px;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.input{
+    padding-inline: 50px;
+    padding-block: 5px;
+    margin-block-end: 10px;
+}
+.link{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}

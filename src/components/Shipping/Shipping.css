@@ -1,0 +1,12 @@
+.form{
+    margin-inline: 200px;
+}
+.form input{
+    display: block;
+    padding: 5px;
+    margin-top: 20px;
+    width: 300px;
+}
+.error{
+    color: red;
+}
