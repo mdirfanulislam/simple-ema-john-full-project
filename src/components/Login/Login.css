@@ -3,10 +3,9 @@
     justify-content: center;
     align-items: center;
     background-color: lightgreen;
-    margin-inline: 400px;
     margin-top: 50px;
-    border: 1px solid tomato;
-    border-radius: 5px;
+    border: 2px solid rgb(255, 38, 0);
+    border-radius: 20px;
     padding-block: 10px;
 }
 .btn-authentication{
@@ -22,6 +21,8 @@
     padding-inline: 50px;
     padding-block: 5px;
     margin-block-end: 10px;
+    border: 2px solid rgb(255, 38, 0);
+    border-radius: 10px;
 }
 .link{
     text-decoration: none;

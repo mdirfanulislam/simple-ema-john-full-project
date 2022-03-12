@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { getAuth, signInWithPopup, GoogleAuthProvider, onAuthStateChanged, signOut } from "firebase/auth";
 import initializeAuthentication from '../Firebase/firebaseInit';
 
@@ -27,7 +27,7 @@ const useFirebase = () => {
                 setUser(user);
               } 
         })
-    },[])
+    },[auth])
 
     return {
         user,

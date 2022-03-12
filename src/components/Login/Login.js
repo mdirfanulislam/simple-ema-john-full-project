@@ -15,6 +15,7 @@ const Login = () => {
             history.push(Redirect_uri)
         })
     }
+    
     return (
         <div className="authentication">
             <div>
